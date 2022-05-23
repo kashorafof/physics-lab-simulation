@@ -1,0 +1,1 @@
+to run the project exe file run "uniformal acceleration motion.exe"
